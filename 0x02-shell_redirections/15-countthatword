@@ -1,2 +1,2 @@
 #!/bin/bash
-qrep -i "bin" /etc/passwd | wc
+qrep -i "bin" /etc/passwd | wc -1
